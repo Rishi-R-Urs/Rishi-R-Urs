@@ -1,4 +1,4 @@
-Hi! I'm Rishi, a programmer, swimmer, athlete and entrapreneur
+Hi! I am Rishi, a programmer, swimmer, athlete and entrapreneur
 
 - 🎓 B.Sc Data Science & Business Administration | Concentration in Finance @ Northeastern University                                           
 - 📍 Boston, Massachusetts

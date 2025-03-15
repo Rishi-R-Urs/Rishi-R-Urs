@@ -1,7 +1,5 @@
 Hi! I'm Rishi, a programmer, swimmer, athlete and entrapreneur
 
-![IMG_7329](https://github.com/user-attachments/assets/2874a7f2-09f6-4675-bd5f-72da45cb4d01)
-
 - 🎓 B.Sc Data Science & Business Administration | Concentration in Finance @ Northeastern University                                           
 - 📍 Boston, Massachusetts
 - 👀 I’m interested in Finance, Data Science, AI, Machine Learning and Application Development 

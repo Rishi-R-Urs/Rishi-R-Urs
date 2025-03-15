@@ -8,7 +8,7 @@ Hi! I'm Rishi, a programmer, swimmer, athlete and entrapreneur
 - 💻 Python | Java | SQL | MS Office | Google Workspace
 - 🏎️ I have always loved cars
 - 😄 Pronouns: He/Him
-- 👑 Fun fact: For four years, I participated in and won state-wide swimming competitions.
+- 🏊🏽‍♂️ Fun fact: For four years, I participated in and won state-wide swimming competitions.
 
 
 

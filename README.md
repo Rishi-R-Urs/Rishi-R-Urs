@@ -3,7 +3,7 @@ Hi! I am Rishi, a programmer, swimmer, athlete and entrapreneur
 - 🎓 B.Sc Data Science & Business Administration | Concentration in Finance & Fintech @ Northeastern University                                           
 - 📍 Boston, Massachusetts
 - 👀 Interests: Finance | Data Science | AI | Machine Learning | Application Development 
-- 💻 Python | Java | SQL | MS Office | Google Workspace
+- 💻 Python | Java | SQL | JavaScript | CSS | HTML | MS Office | Google Workspace
 - 🏎️ Enthusiast: Cars | Trains
 - 😄 Pronouns: He/Him
 - 🏊🏽‍♂️ Fun fact: Participated in and won state-wide swimming competitions.

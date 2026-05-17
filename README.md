@@ -1,5 +1,3 @@
-Hi! I am Rishi, a programmer, swimmer, athlete and entrapreneur
-
 - 🎓 B.Sc Data Science & Business Administration | Concentration in Fintech | Minors in Interdisciplinary Artificial Intelligence & Economics @ Northeastern University    
 - 📍 Boston, Massachusetts
 - 👀 Interests: Finance | Data Science | AI | Machine Learning | Application Development 

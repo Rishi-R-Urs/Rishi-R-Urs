@@ -1,10 +1,10 @@
-- 🎓 B.Sc Data Science & Business Administration | Concentration in Fintech | Minors in Interdisciplinary Artificial Intelligence & Economics @ Northeastern University    
-- 📍 Boston, Massachusetts
-- 👀 Interests: Finance | Data Science | AI | Machine Learning | Application Development 
-- 💻 Python | Java | SQL | JavaScript | CSS | HTML | MS Office | Google Workspace
-- 🏎️ Enthusiast: Cars | Trains
-- 😄 Pronouns: He/Him
-- 🏊🏽‍♂️ Fun fact: Participated in and won state-wide swimming competitions.
+- B.Sc Data Science & Business Administration | Concentration in Fintech | Minors in Interdisciplinary Artificial Intelligence & Economics @ Northeastern University    
+- Boston, Massachusetts
+- Interests: Finance | Data Science | AI | Machine Learning | Application Development 
+- Technologies & Tools: Python | Java | SQL | JavaScript | CSS | HTML | Microsoft Office | Google Workspace
+- Enthusiast: Cars | Trains
+- Pronouns: He/Him
+- Fun fact: Participated in and won state-wide swimming competitions.
 
 
 
